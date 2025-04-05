@@ -64,7 +64,7 @@
     </section>
 </main>
 <footer>
-    <p>Created by Alish Sekh | FY BCom | MMCC</p>
+    <p>Created by Alish Shaikh | FY BCom | MMCC</p>
 </footer>
 
 </body>
